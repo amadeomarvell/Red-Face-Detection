@@ -1,2 +1,2 @@
 # Red-Face-Detection
-Detect red faces from image using Python
+The purpose is to detect red faces from an image using Python. 
